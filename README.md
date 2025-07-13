@@ -2,8 +2,6 @@
 
 This project showcases an interactive Power BI dashboard built to analyze and monitor the performance of an e-commerce business. It provides insights into sales trends, customer behavior, product performance, and key business KPIs.
 
----
-
 ## 🔍 Project Overview
 
 The goal of this dashboard is to help business stakeholders make informed decisions by visualizing data related to:
@@ -22,21 +20,6 @@ The goal of this dashboard is to help business stakeholders make informed decisi
 - **Top Performers**: Best-selling products and top revenue-generating categories
 - **Customer Analysis**: Customer-wise sales distribution and behavior
 - **Interactive Filters**: Slice and dice data by Region, Category, Customer, and Date
-
----
-
-## 📸 Dashboard Previews
-
-### 🖼️ Overview Page
-![Dashboard Overview](images/dashboard-overview.png)
-
-### 🖼️ Sales Trend & KPIs
-![Sales Trend](images/sales-trend.png)
-
-### 🖼️ Customer & Product Insights
-![Customer and Products](images/customer-products.png)
-
-> Replace the image paths with your actual screenshot names placed inside the `/images/` folder.
 
 ---
 
@@ -70,14 +53,4 @@ The goal of this dashboard is to help business stakeholders make informed decisi
 3. Refresh the data (if connected to a dynamic source).
 4. Explore the dashboard using available filters and visuals.
 
----
 
-## 🤝 Connect with Me
-
-Feel free to reach out if you have suggestions, feedback, or collaboration ideas!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/) <!-- Replace with your LinkedIn -->
-
----
-
-> ⚠️ **Note**: This dashboard uses dummy/sample data for demonstration purposes only.
